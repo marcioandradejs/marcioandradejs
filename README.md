@@ -3,11 +3,11 @@
 - 🔭 Sou novato na área e trabalho com Front-End como freelancer.
 - 🌱 Estudo Javascript, Typescript, React, NextJS e etc...
 - 😄 Estou migrando da Engenharia Civil para o mundo da programação e estou amando!
-##
+
  <div style="width: 100%">
   <a href="https://github.com/marcioandradejs">
-  <img width: "60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcioandradejs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img width: "40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioandradejs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcioandradejs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioandradejs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
 <div style="display: inline_block"><br>
