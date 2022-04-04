@@ -1,8 +1,4 @@
-## Olá! Eu sou o Marcio Andrade 👋
-
-- 🔭 Trabalho com Front-End como freelancer.
-- 🌱 Estudo Javascript, Typescript, React, NextJS, NodeJS e mais.
-- 😄 Estou migrando da Engenharia Civil para o mundo da programação e estou amando!
+## Hello, I'm Marcio Andrade 👋
 
  <div style="width: 100%">
   <a href="https://github.com/marcioandradejs">
